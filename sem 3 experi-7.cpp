@@ -25,3 +25,4 @@ cout << "Element not found in the array" << endl;
 }
 return 0;
 }
+
